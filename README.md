@@ -1,4 +1,4 @@
-# Covid Data Analysis 
+# Covid-19 Data Analysis 
 
 ## Technologies 
 * Anaconda 2.6.1 or later
