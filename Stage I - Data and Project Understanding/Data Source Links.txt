@@ -1,0 +1,18 @@
+COVID-19 Dataset: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
+
+Census Demographic ACS: https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05
+
+ACS Social, Economic, and Housing: https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05
+
+Employment Dataset: 
+https://www.bls.gov/cew/downloadable-data-files.htm
+
+The employment dataset provides the level of employment and the earning potential by county.
+
+2020 https://data.bls.gov/cew/data/files/2020/csv/2020_annual_by_area.zip
+
+2021 https://data.bls.gov/cew/data/files/2021/csv/2021_annual_by_area.zip
+
+2022 https://data.bls.gov/cew/data/files/2022/csv/2022_annual_by_area.zip
+
+Presidential Election Results (Political leanings): https://www.kaggle.com/unanimad/us-election-2020
