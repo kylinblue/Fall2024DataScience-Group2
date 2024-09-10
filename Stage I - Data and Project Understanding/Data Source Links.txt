@@ -1,6 +1,6 @@
 COVID-19 Dataset: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
 
-Census Demographic ACS: https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05
+Census Demographic ACS: https://data.census.gov/table/ACSDP5Y2020.DP05?q=dp
 
 ACS Social, Economic, and Housing: https://data.census.gov/cedsci/table?q=dp&tid=ACSDP1Y2018.DP05
 
